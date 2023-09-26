@@ -1,0 +1,26 @@
+/* CSS styles for the Contact Me section */
+.contact-me {
+    background-color: #D6EAEA; /* Pastel blue background color */
+    padding: 20px; /* Add padding for spacing */
+    border-radius: 10px; /* Rounded corners */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Box shadow for depth */
+    margin-top: 20px; /* Add some space between sections */
+    text-align: center; /* Center-align the content */
+    font-family: 'Arial', sans-serif; /* Change the font family */
+    color: #333; /* Dark text color */
+  }
+  
+  .contact-me h3 {
+    font-size: 24px; /* Increase the font size */
+    margin-bottom: 10px; /* Add space below the heading */
+    font-family: 'Georgia', serif; /* Change the font family */
+    color: #333; /* Dark text color */
+  }
+  
+  .contact-me form {
+    max-width: 400px; /* Limit the form width */
+    margin: 0 auto; /* Center the form horizontally */
+  }
+  
+  /* Rest of your styles for the contact form */
+  

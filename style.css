@@ -1,0 +1,71 @@
+  /* Your updated CSS code */
+  body {
+    margin: 0;
+    padding: 0;
+    background: url(bcg.jpg);
+    background-size: cover;
+  }
+
+  .box {
+    width: 800px; /* Adjust the width to your preference */
+    background: rgba(255, 255, 255, 0.8); /* Light background color */
+    padding: 40px;
+    text-align: center;
+    margin: auto;
+    margin-top: 5%;
+    color: #333; /* Dark text color */
+    font-family: 'Century Gothic', sans-serif;
+  }
+
+  .box-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  }
+
+  .box h1 {
+    font-size: 40px;
+    letter-spacing: 4px;
+    font-weight: 100;
+  }
+
+  .box h5 {
+    font-size: 20px;
+    letter-spacing: 3px;
+    font-weight: 100;
+  }
+
+  .box p {
+    text-align: justify;
+  }
+
+  .box li {
+    display: inline-block;
+    margin: 6px;
+    list-style: none;
+  }
+
+  .box li a {
+    color: #333; /* Dark text color */
+    font-size: 60px;
+    transition: all ease-in-out 250ms;
+  }
+
+  .box li a:hover {
+    color: #b9b9b9;
+  }
+
+  /* New styles for section headings and dot icons */
+  .section {
+    margin-left: 20px;
+  }
+
+  .section p {
+    margin: 5px 0;
+  }
+
+  .fa-circle,
+  .fa-dot-circle {
+    color: #333; /* Dark text color */
+    margin-right: 5px;
+  }
